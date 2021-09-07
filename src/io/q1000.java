@@ -10,6 +10,7 @@ public class q1000 {
 		int a=sc.nextInt();
 		int b=sc.nextInt();
 		System.out.println(a+b);
+		//푸시 테스트용 변경
 	}
 
 }
